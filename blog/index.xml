@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>中学生エンジニアの数学ノート</title>
+    <title>sand-youtube</title>
     <link>/blog/</link>
-    <description>Recent content on 中学生エンジニアの数学ノート</description>
+    <description>Recent content on sand-youtube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 08 Jan 2023 14:54:05 +0900</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hugoで生成した静的サイトとfastapiを組み合わせる。</title>
+      <title>scratchアカウント<title>
+      <link>/blog/p/qvzimjn/</link>
+      <pubDate>Sun, 08 Jan 2023 14:54:05 +0900</pubDate>
+
+      <guid>/blog/p/qvzimjn/</guid>
+       <description>https://scratch.mit.edu/users/sand_dayo/</description>
+    </item>
+    <item>
+      <title>youtubeの見方</title>
       <link>/blog/p/qvzimjn/</link>
       <pubDate>Sun, 08 Jan 2023 14:54:05 +0900</pubDate>
       
       <guid>/blog/p/qvzimjn/</guid>
-      <description>エンジニアとして静的サイトだけでは満足ができないことも多いと予想したので、hugoの機能であるショートコードを使いバックエンドに接続できるようにする。
-がりがり書いたのがこれ キーボードガチャガチャした文字列か文章か確かめる。</description>
+      <description>パスワードの部分に85175を打つ!!</description>
     </item>
     
     <item>
