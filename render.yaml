@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: emergency-ryousan-type
+    name: sand-yuki
     env: python
     region: Oregon
     plan: free
